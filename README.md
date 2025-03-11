@@ -1,60 +1,30 @@
-# Hi there! 👋 I'm Sonam Tenzin
+<h1 align="center">Hi 👋, I'm Sonam Tenzin</h1>
+<h3 align="center">A passionate Data Analyst from Himalaya</h3>
 
-🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonamtenzin7&label=Profile%20views&color=0e75b6&style=flat" alt="sonamtenzin7" /> </p>
 
-I'm a Data Analyst with experience in working on real-world AI and machine learning projects. My work primarily focuses on:
+- 🔭 I’m currently working on [Facial Recognition System with GeoFencing Technology](https://github.com/suzWaks/frs_fyp)
 
-AI Carpooling System 🚗💡 (Reducing travel costs and fuel expenses)
+- 🌱 I’m currently learning **Python and R Language**
 
-Pothole Detection Model 🛣️ (Helping governments find cost-effective solutions)
+- 👯 I’m looking to collaborate on [Data Analyst](https://github.com/SonamTenzin7/Job-posting-data-analysis)
 
-License Plate Recognition & Car Parking System 🏢🚘
+- 🤝 I’m looking for help with [Data Analyst](https://github.com/SonamTenzin7/Job-posting-data-analysis)
 
-International Migration Analysis 🌍📊 (Time-series forecasting)
+- 👨‍💻 All of my projects are available at [https://github.com/SonamTenzin7](https://github.com/SonamTenzin7)
 
-TikTok Claims Classification 📱🤖 (Using ML to categorize video claims)
+- 💬 Ask me about **🥶🥶**
 
-🛠️ Skills & Technologies
+- 📫 How to reach me **sonamtenzey0@gmail.com**
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV)
+- ⚡ Fun fact **Never Stop.**
 
-SQL & Database Management
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sonam10zin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonam10zin" height="30" width="40" /></a>
+</p>
 
-Machine Learning & Deep Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-Computer Vision & Image Processing
-
-Data Visualization & Storytelling
-
-Jupyter Notebooks & Git
-
-📌 Projects
-
-🔹 AI Carpooling System
-
-An AI-powered solution to optimize carpooling, minimize travel costs, and encourage shared rides.
-
-🔹 Pothole Detection Model
-
-Developing a model to detect potholes using computer vision and map visualization, aiming for smart city infrastructure.
-
-🔹 License Plate Recognition & Car Parking System
-
-Creating an automated parking system with license plate detection using image processing and ML.
-
-🔹 TikTok Claims Classification
-
-Analyzing TikTok video engagement trends and building a ML model to classify claim statuses.
-
-📫 Let's Connect!
-
-📧 Email: [Your Email]
-
-🔗 LinkedIn: [Your LinkedIn Profile]
-
-🐦 Twitter: [Your Twitter Handle]
-
-🌐 Portfolio: [Your Website]
-
-💡 Let's collaborate on exciting AI and Data Science projects! 🚀
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonamtenzin7&show_icons=true&locale=en&layout=compact" alt="sonamtenzin7" /></p>
